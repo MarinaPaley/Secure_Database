@@ -1,0 +1,9 @@
+Билет 1
+1.	Показать все поля из таблицы Production.Product. (0.5 балла)
+2.	Показать все наименования модели «рамка» (Frame) (поля ProductModelID,[Name]) из таблицы Production.ProductModel. (0.5 балла)
+3.	Рассчитать количество языков ([Name]), на которых хранятся данные AdventureWorks из таблицы Production.Culture. Production.Culture   Таблица, которая хранит данные о языках БД AdventureWorks. (0.5 балла)
+4.	Рассчитать среднюю цену (ListPrice) для каждого товара (ProductID) из таблицы Production.ProductListPriceHistor. Показать поля средняя цена и ProductID. (0.5 балла)
+5.	Показать причины производственного отказа (ScrapReason.[Name]) и поля WorkOrderID, ProductID, StockedQty из таблицы Production.WorkOrder, Production.ScrapReason (естественное соединение по полю ScrapReasonID). (0.5 балла).
+6.	Показать наименование склада ([Location].[Name]) и суммарное количество (ProductInventory.Quantity) товара на складе из таблиц Production.ProductInventory, Production.[Location] (естественное соединение по полю LocationID) (0.5 балла)
+7.	Показать наименование склада [Location].[Name], на котором хранится минимальное суммарное количество товара (ProductInventory.Quantity) из таблиц Production.ProductInventory, Production.[Location]. Показать поле [Location].[Name]. (1 балл).
+8.	Показать продукты (ProductID), которые хранятся на всех складах (LocationID) из таблицы Production.ProductInventory. Показать два столбца ProductID, LocationID. (SELF JOIN). (1 балл).
