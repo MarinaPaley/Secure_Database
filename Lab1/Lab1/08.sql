@@ -1,0 +1,3 @@
+SELECT DISTINCT Color
+FROM Production.Product
+--WHERE Color IS NOT NULL
