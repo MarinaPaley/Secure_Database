@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="CourseWork">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="MARINA_LAPTOP:MARINA_LAPTOP\Людмила">
+          <Created>2021-03-16T16:02:47.8023679+03:00</Created>
+          <Type>SQL</Type>
+          <Server>MARINA_LAPTOP</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="DDL_Address.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MARINA_LAPTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MARINA_LAPTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DDL_Address.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DDL_Building.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MARINA_LAPTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MARINA_LAPTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DDL_Building.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DDL_CreateDataBase.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MARINA_LAPTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MARINA_LAPTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DDL_CreateDataBase.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DDL_Flat.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MARINA_LAPTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MARINA_LAPTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DDL_Flat.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DDL_House.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MARINA_LAPTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MARINA_LAPTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DDL_House.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DDL_Person.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MARINA_LAPTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MARINA_LAPTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DDL_Person.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DDL_Schema_Address.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MARINA_LAPTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MARINA_LAPTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DDL_Schema_Address.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DDL_Schema_Person.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MARINA_LAPTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MARINA_LAPTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DDL_Schema_Person.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DDL_Shema_Discipline.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MARINA_LAPTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MARINA_LAPTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DDL_Shema_Discipline.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DDL_Street.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MARINA_LAPTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MARINA_LAPTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DDL_Street.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
