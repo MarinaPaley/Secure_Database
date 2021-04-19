@@ -19,6 +19,12 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
+        <FileNode Name="DDL_Address.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MARINA_LAPTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MARINA_LAPTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DDL_Address.sql</FullPath>
+        </FileNode>
         <FileNode Name="DDL_Building.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MARINA_LAPTOP:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>MARINA_LAPTOP</AssociatedConnSrvName>
@@ -37,11 +43,17 @@
           <AssociatedConnUserName />
           <FullPath>DDL_Flat.sql</FullPath>
         </FileNode>
-        <FileNode Name="DDL_Scema_Person.sql">
+        <FileNode Name="DDL_House.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MARINA_LAPTOP:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>MARINA_LAPTOP</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>DDL_Scema_Person.sql</FullPath>
+          <FullPath>DDL_House.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DDL_Person.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MARINA_LAPTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MARINA_LAPTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DDL_Person.sql</FullPath>
         </FileNode>
         <FileNode Name="DDL_Schema_Address.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MARINA_LAPTOP:True</AssociatedConnectionMoniker>
@@ -49,17 +61,23 @@
           <AssociatedConnUserName />
           <FullPath>DDL_Schema_Address.sql</FullPath>
         </FileNode>
+        <FileNode Name="DDL_Schema_Person.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MARINA_LAPTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MARINA_LAPTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DDL_Schema_Person.sql</FullPath>
+        </FileNode>
         <FileNode Name="DDL_Shema_Discipline.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MARINA_LAPTOP:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>MARINA_LAPTOP</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>DDL_Shema_Discipline.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery2.sql">
+        <FileNode Name="DDL_Street.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MARINA_LAPTOP:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>MARINA_LAPTOP</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery2.sql</FullPath>
+          <FullPath>DDL_Street.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
