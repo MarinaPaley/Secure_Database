@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # SQL Server Management Studio Solution File, Format Version 18.00
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Lab1", "Lab1.ssmssqlproj", "{B92A2BA7-AFF7-478E-8D85-FA6DA7880E88}"
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Lab1", ".\Lab1\scripts\Lab1.ssmssqlproj", "{B92A2BA7-AFF7-478E-8D85-FA6DA7880E88}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Lab2", ".\Lab2\scripts\Lab2.ssmssqlproj", "{B1589F05-0414-40EC-988F-D0E41B1421C1}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Lab3", ".\Lab3\scripts\Lab3.ssmssqlproj", "{B21DA253-2D97-433D-B374-7751C5677891}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,6 +15,9 @@ Global
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{B92A2BA7-AFF7-478E-8D85-FA6DA7880E88}.Default|Default.ActiveCfg = Default
+		{B1589F05-0414-40EC-988F-D0E41B1421C1}.Default|Default.ActiveCfg = Default
+		{2D579D70-8BA1-490E-8243-D568DBC41352}.Default|Default.ActiveCfg = Default
+		{B21DA253-2D97-433D-B374-7751C5677891}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
