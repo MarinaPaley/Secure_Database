@@ -19,6 +19,18 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
+        <FileNode Name="CROSS JOIN.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MARINA_LAPTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MARINA_LAPTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CROSS JOIN.sql</FullPath>
+        </FileNode>
+        <FileNode Name="EXCEPT.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MARINA_LAPTOP:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MARINA_LAPTOP</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>EXCEPT.sql</FullPath>
+        </FileNode>
         <FileNode Name="INNER JOIN.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MARINA_LAPTOP:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>MARINA_LAPTOP</AssociatedConnSrvName>
